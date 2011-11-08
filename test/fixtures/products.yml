@@ -11,3 +11,10 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+  
+Tshirt:
+  title:  Tshirt
+  description:
+    This is a sweet custom made t-shirt.
+  price: 15.00
+  image_url:  t-shirt.jpg
